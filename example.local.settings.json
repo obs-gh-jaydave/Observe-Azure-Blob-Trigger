@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "AZURE_STORAGE_CONNECTION_STRING",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "OBSERVE_HTTP_ENDPOINT": "https://OBSERVE_CUSTOMER_ID.collect.observeinc.com/v1/http",
+      "OBSERVE_API_TOKEN": "OBSERVE_API_TOKEN"
+    }
+  }

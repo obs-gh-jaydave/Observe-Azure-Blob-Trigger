@@ -1,0 +1,17 @@
+<root>
+    <entry>
+        <id>1</id>
+        <name>Sample Name 1</name>
+        <value>123</value>
+    </entry>
+    <entry>
+        <id>2</id>
+        <name>Sample Name 2</name>
+        <value>456</value>
+    </entry>
+    <entry>
+        <id>3</id>
+        <name>Sample Name 3</name>
+        <value>789</value>
+    </entry>
+</root>

@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-12-05T11:00:00Z",
+    "category": "Testing",
+    "operationName": "Single Entry",
+    "status": "Pending",
+    "subscriptionId": "11112222-3333-4444-5555-666677778888",
+    "resourceId": "/subscriptions/11112222-3333-4444-5555-666677778888/resourceGroups/test-rg/providers/Microsoft.Test/resources/testresource"
+}
